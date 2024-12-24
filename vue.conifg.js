@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/video2video',
+    publicPath: '/video2video/',
     outputDir: 'docs'
 }
