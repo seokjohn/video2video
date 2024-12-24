@@ -31,7 +31,7 @@ import { fetchFile, toBlobURL } from '@ffmpeg/util'
 import { defineComponent, ref } from 'vue'
 
 //const baseURL = 'https://unpkg.com/@ffmpeg/core-mt@0.12.6/dist/esm'
-const baseURL = 'https://unpkg.com/@ffmpeg/core@0.12.6/dist/umd';
+const baseURL = 'https://unpkg.com/@ffmpeg/core@0.12.6/dist/esm';
 
 export default defineComponent({
   name: 'App',
